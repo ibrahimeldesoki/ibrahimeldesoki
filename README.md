@@ -7,6 +7,7 @@ I'm Ibrahim Eldesoki, a Software engineer living in Cairo, Egypt. I've been in w
 - [Clone Twitter](https://github.com/ibrahimeldesoki/cloneTwitter) is a clone of twitter.to implement Service Layer arch.
 
 # Sharing knowledge
-- From time to time I love sharing my tech knowledge. so you can find my tweets on [Twitter](https://twitter.com/Eldesokii96)
+- From time to time I love sharing my tech knowledge. so you can find my articles on  [github.io](https://ibrahimeldesoki.github.io/),
+and my tweets on [Twitter](https://twitter.com/Eldesokii96)
 # Contact
 For work-related stuff feel free to contact me on [Twitter](https://twitter.com/Eldesokii96/) or [Linkedin](https://www.linkedin.com/in/i-eldesoki1/)
